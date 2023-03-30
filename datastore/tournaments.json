@@ -1,0 +1,97 @@
+[
+    {
+        "title": "Call of Duty: Modern Warfare 2 (2009)",
+        "area": "Konsolialue",
+        "link": "https://challonge.com/insxxii_mw2",
+        "time": {
+            "28.10.2022 klo 16:00": "28.10.2022 klo 20:00"
+        }
+    },
+    {
+        "title": "Super Smash Bros: Ultimate",
+        "area": "Konsolialue",
+        "link": "https://challonge.com/insxxii_ssbu",
+        "time": {
+            "28.10.2022 klo 16:00": "28.10.2022 klo 20:00",
+            "29.10.2022 klo 20:00": "29.10.2022 klo 20:30"
+        }
+    },
+    {
+        "title": "Minecraft",
+        "link": "https://challonge.com/insxxii_minecraft",
+        "time": {
+            "28.10.2022 klo 18:00": "29.10.2022 klo 21:00"
+        }
+    },
+    {
+        "title": "Overwatch 2",
+        "link": "https://challonge.com/insxxii_overwatch2",
+        "partner": {
+            "name": "Suomi OW",
+            "link": "https://twitter.com/SuomiOverwatch"
+        },
+        "time": {
+            "28.10.2022 klo 18:30": "28.10.2022 klo 23:59"
+        }
+    },
+    {
+        "title": "Fall Guys",
+        "link": "https://challonge.com/insxxii_fallguys",
+        "time": {
+            "29.10.2022 klo 0:00": "29.10.2022 klo 2:00"
+        }
+    },
+    {
+        "title": "Arma 3",
+        "link": "https://challonge.com/insxxii_arma3",
+        "partner": {
+            "name": "Porin Seudun Reserviläisliitto ry",
+            "link": "https://porin-seudun-reservilaiset.reservilaisliitto.fi"
+        },
+        "time": {
+            "29.10.2022 klo 10:00": "29.10.2022 klo 14:00"
+        }
+    },
+    {
+        "title": "League of Legends",
+        "link": "https://challonge.com/insxxii_lol",
+        "partner": {
+            "name": "LOL Finland"
+        },
+        "time": {
+            "29.10.2022 klo 14:00": "29.10.2022 klo 16:00"
+        }
+    },
+    {
+        "title": "Beat Saber (VR)",
+        "link": "https://challonge.com/insxxii_bs",
+        "time": {
+            "29.10.2022 klo 14:00": "29.10.2022 klo 16:00"
+        }
+    },
+    {
+        "title": "Crash Team Racing",
+        "link": "https://challonge.com/insxxii_ctr",
+        "partner": {
+            "name": "100k esports",
+            "link": "https://100koo.org"
+        },
+        "time": {
+            "29.10.2022 klo 16:00": "29.10.2022 klo 18:00"
+        }
+    },
+    {
+        "title": "Rocket League",
+        "link": "https://challonge.com/insxxii_rl",
+        "time": {
+            "29.10.2022 klo 17:00": "29.10.2022 klo 21:30"
+        }
+    },
+    {
+        "title": "Pro Pilkki",
+        "link": "https://challonge.com/insxxii_pilkki",
+        "time": {
+            "30.10.2022 klo 00:00": "30.10.2022 klo 02:00"
+        }
+    }
+]

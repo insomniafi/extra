@@ -1,0 +1,141 @@
+[
+    {
+        "title": "Ovet aukeaa",
+        "area": "Insomnia XXII",
+        "time": {
+            "27.10.2022 klo 18:00": "27.10.2022 klo 18:00"
+        }
+    },
+    {
+        "title": "Info-piste",
+        "area": "Aula",
+        "time": {
+            "27.10.2022 klo 18:00": "28.10.2022 klo 1:00",
+            "28.10.2022 klo 9:00": "29.10.2022 klo 1:00",
+            "29.10.2022 klo 9:00": "29.10.2022 klo 1:00",
+            "30.10.2022 klo 9:00": "30.10.2022 klo 12:00"
+        }
+    },
+    {
+        "title": "Satamaito",
+        "area": "Aula",
+        "partner": {
+            "name": "Satamaito",
+            "link": "https://satamaito.fi"
+        },
+        "time": {
+            "27.10.2022 klo 18:00": "29.10.2022 klo 16:00"
+        }
+    },
+    {
+        "title": "VR-piste",
+        "area": "Aula",
+        "time": {
+            "27.10.2022 klo 18:00": "27.10.2022 klo 23:55",
+            "28.10.2022 klo 10:00": "28.10.2022 klo 21:00",
+            "29.10.2022 klo 10:00": "29.10.2022 klo 21:00",
+            "30.10.2022 klo 9:00": "30.10.2022 klo 12:00"
+        }
+    },
+    {
+        "title": "Konsolialue",
+        "area": "Konsolialue",
+        "time": {
+            "27.10.2022": "27.10.2022",
+            "28.10.2022": "28.10.2022",
+            "29.10.2022": "29.10.2022",
+            "30.10.2022": "30.10.2022"
+        }
+    },
+    {
+        "title": "Digitaalisen pelaamisen aakkoset",
+        "area": "Auditorio",
+        "partner": {
+            "name": "100k esports",
+            "link": "https://100koo.org"
+        },
+        "time": {
+            "27.10.2022 klo 19:00": "27.10.2022 klo 20:30"
+        }
+    },
+    {
+        "title": "Avauspuhe",
+        "area": "Lava",
+        "time": {
+            "27.10.2022 klo 21:00": "27.10.2022 klo 21:10"
+        }
+    },
+    {
+        "title": "Valot pois",
+        "area": "Sali",
+        "time": {
+            "27.10.2022 klo 21:10": "27.10.2022 klo 21:10" 
+        }
+    },
+    {
+        "title": "DJ Vice Nando",
+        "area": "Sali",
+        "time": {
+            "27.10.2022 klo 21:10": "27.10.2022 klo 21:45" 
+        }
+    },
+    {
+        "title": "Ohjaamo Pori",
+        "area": "Aula",
+        "partner": {
+            "name": "Ohjaamo Pori",
+            "link": "https://ohjaamot.fi/web/ohjaamo-pori"
+        },
+        "time": {
+            "28.10.2022 klo 13:00": "28.10.2022 klo 15:00"
+        }
+    },
+    {
+        "title": "Game-Info",
+        "area": "Game-Info",
+        "time": {
+            "28.10.2022 klo 15:00": "28.10.2022 klo 16:00",
+            "28.10.2022 klo 16:30": "28.10.2022 klo 18:00",
+            "29.10.2022 klo 8:30": "29.10.2022 klo 10:00",
+            "29.10.2022 klo 12:00": "29.10.2022 klo 18:00"
+        }
+    },
+    {
+        "title": "Robosota",
+        "area": "Nukkumatila",
+        "time": {
+            "29.10.2022 klo 13:00": "29.10.2022 klo 17:00"
+        }
+    },
+    {
+        "title": "Satakunnan Airsoft ry",
+        "area": "Aula",
+        "partner": {
+            "name": "Satakunnan Airsoft ry",
+            "link": "https://satasoft.info"
+        },
+        "time": {
+            "28.10.2022 klo 16:00": "28.10.2022 klo 20:00",
+            "29.10.2022 klo 14:00": "29.10.2022 klo 18:00"
+        }
+    },
+    {
+        "title": "Pori eSport",
+        "area": "Aula",
+        "partner": {
+            "name": "Pori eSport",
+            "link": "https://porinravit.fi/esports"
+        },
+        "time": {
+            "28.10.2022 klo 10:00": "28.10.2022 klo 15:30",
+            "29.10.2022 klo 12:00": "29.10.2022 klo 15:00"
+        }
+    },
+    {
+        "title": "Insomnia x Skynett Lan - CS:GO Ystävyysottelu",
+        "area": "Lava",
+        "time": {
+            "29.10.2022 klo 22:00": "29.10.2022 klo 23:59"
+        }
+    }
+]

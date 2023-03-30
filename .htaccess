@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteOptions IgnoreInherit
+
+RewriteEngine On
+RewriteCond %{ENV:HTTPS} !on
+RewriteCond %{REQUEST_URI} !^/?\.well-known/acme-challenge/
+RewriteRule (.*) https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [NC,L,QSA]
+
+</IfModule>
