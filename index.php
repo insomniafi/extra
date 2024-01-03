@@ -227,11 +227,11 @@ if(isset($_GET['date']) && $_GET['date'] != ''){
         <!-- Link: Preconnect & DNS Prefetch & Preload -->
         <link rel="preconnect" href="//cdn.cwinfo.net">
         <link rel="dns-prefetch" href="//cdn.cwinfo.net">
-        <link rel="preload" as="font" type="font/woff2" href="https://cdn.cwinfo.net/frameworks/font-awesome/6.4.0/webfonts/fa-solid-900.woff2" crossorigin="anonymous">
-        <link rel="preload" as="style" href="https://cdn.cwinfo.net/frameworks/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous">
+        <link rel="preload" as="font" type="font/woff2" href="https://cdn.cwinfo.net/frameworks/font-awesome/6.5.1/webfonts/fa-solid-900.woff2" crossorigin="anonymous">
+        <link rel="preload" as="style" href="https://cdn.cwinfo.net/frameworks/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous">
 
         <!-- CSS -->
-        <link rel="stylesheet" type="text/css" href="https://cdn.cwinfo.net/frameworks/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous" media="screen, print">
+        <link rel="stylesheet" type="text/css" href="https://cdn.cwinfo.net/frameworks/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" media="screen, print">
 
     </head>
     <body>
