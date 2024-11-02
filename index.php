@@ -185,7 +185,7 @@ if(isset($_GET['date']) && $_GET['date'] != ''){
             }
 
             .wg-logo {
-                background-image: url(https://cdn.cwinfo.net/logos/warengroup/logo-light.svg);
+                background-image: url(https://cdn.waren.io/logos/warengroup/logo-light.svg);
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: contain;
@@ -225,13 +225,13 @@ if(isset($_GET['date']) && $_GET['date'] != ''){
         </style>
 
         <!-- Link: Preconnect & DNS Prefetch & Preload -->
-        <link rel="preconnect" href="//cdn.cwinfo.net">
-        <link rel="dns-prefetch" href="//cdn.cwinfo.net">
-        <link rel="preload" as="font" type="font/woff2" href="https://cdn.cwinfo.net/frameworks/font-awesome/6.6.0/webfonts/fa-solid-900.woff2" crossorigin="anonymous">
-        <link rel="preload" as="style" href="https://cdn.cwinfo.net/frameworks/font-awesome/6.6.0/css/all.min.css" crossorigin="anonymous">
+        <link rel="preconnect" href="//cdn.waren.io">
+        <link rel="dns-prefetch" href="//cdn.waren.io">
+        <link rel="preload" as="font" type="font/woff2" href="https://cdn.waren.io/frameworks/font-awesome/6.6.0/webfonts/fa-solid-900.woff2" crossorigin="anonymous">
+        <link rel="preload" as="style" href="https://cdn.waren.io/frameworks/font-awesome/6.6.0/css/all.min.css" crossorigin="anonymous">
 
         <!-- CSS -->
-        <link rel="stylesheet" type="text/css" href="https://cdn.cwinfo.net/frameworks/font-awesome/6.6.0/css/all.min.css" crossorigin="anonymous" media="screen, print">
+        <link rel="stylesheet" type="text/css" href="https://cdn.waren.io/frameworks/font-awesome/6.6.0/css/all.min.css" crossorigin="anonymous" media="screen, print">
 
     </head>
     <body>
