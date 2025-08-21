@@ -227,11 +227,11 @@ if(isset($_GET['date']) && $_GET['date'] != ''){
         <!-- Link: Preconnect & DNS Prefetch & Preload -->
         <link rel="preconnect" href="//cdn.waren.io">
         <link rel="dns-prefetch" href="//cdn.waren.io">
-        <link rel="preload" as="font" type="font/woff2" href="https://cdn.waren.io/frameworks/font-awesome/6.7.2/webfonts/fa-solid-900.woff2" crossorigin="anonymous">
-        <link rel="preload" as="style" href="https://cdn.waren.io/frameworks/font-awesome/6.7.2/css/all.min.css" crossorigin="anonymous">
+        <link rel="preload" as="font" type="font/woff2" href="https://cdn.waren.io/frameworks/font-awesome/7.0.0/webfonts/fa-solid-900.woff2" crossorigin="anonymous">
+        <link rel="preload" as="style" href="https://cdn.waren.io/frameworks/font-awesome/7.0.0/css/all.min.css" crossorigin="anonymous">
 
         <!-- CSS -->
-        <link rel="stylesheet" type="text/css" href="https://cdn.waren.io/frameworks/font-awesome/6.7.2/css/all.min.css" crossorigin="anonymous" media="screen, print">
+        <link rel="stylesheet" type="text/css" href="https://cdn.waren.io/frameworks/font-awesome/7.0.0/css/all.min.css" crossorigin="anonymous" media="screen, print">
 
     </head>
     <body>
