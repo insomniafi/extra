@@ -11,3 +11,13 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php [NC,L,QSA]
 </IfModule>
+
+<IfModule mod_autoindex.c>
+IndexIgnore */*
+Options -Indexes
+</IfModule>
+
+<IfModule mod_alias.c>
+RedirectMatch 403 ^/.git(/.*)?$
+RedirectMatch 403 ^/datastore(/.*)?$
+</IfModule>
