@@ -185,7 +185,7 @@ if(isset($_GET['date']) && $_GET['date'] != ''){
             }
 
             .wg-logo {
-                background-image: url(https://cdn.waren.io/logos/warengroup/logo-light.svg);
+                background-image: url(https://cdn.waren.io/files/warengroup/assets/images/logo-light.svg);
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: contain;
